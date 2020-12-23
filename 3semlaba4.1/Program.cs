@@ -10,6 +10,7 @@ namespace _3semlaba4._1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Сумма: " + Convert.ToDouble(A + B));
         }
     }
 }
