@@ -16,6 +16,7 @@ namespace _3semlaba4._1
             double B = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Сумма: " + Convert.ToDouble(A + B));
             Console.WriteLine("Разность: " + Convert.ToString(A - B));
+            Console.WriteLine("Умножение: " + Convert.ToString(A * B));
         }
     }
 }
