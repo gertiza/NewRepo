@@ -10,6 +10,8 @@ namespace _3semlaba4._1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Введите первое число: ");
+            double A = Convert.ToDouble(Console.ReadLine());
         }
     }
 }
